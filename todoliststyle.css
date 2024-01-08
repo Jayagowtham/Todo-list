@@ -1,0 +1,36 @@
+body {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+#todo-list {
+    margin-top: 20px;
+}
+
+.to-do{
+    color: red;
+    text-align: center;
+    padding: 10px;
+}
+
+#deleteAllBtn{
+    margin-top: 10px;
+    width: 100%;
+}
+
+#addTaskBtn{
+    margin-left: 8px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    
+}
+
+.container{
+    width: 400px;
+    padding: 0px;
+}
+
+.credo-logo{
+    display: block;
+    margin :auto;
+}
